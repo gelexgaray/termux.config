@@ -1,3 +1,4 @@
 # Link config files to their definitive paths
 # --------------------------------------------
-ln bashrc $HOME/.bashrc -s
+CONFIGFOLDER=$(pwd)
+ln $CONFIGFOLDER/bashrc $HOME/.bashrc -s
