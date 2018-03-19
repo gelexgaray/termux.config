@@ -17,5 +17,8 @@ export PS1="[$ANDROIDHOST:\\W \\$] "
 export WWW_HOME="http://www.duckduckgo.com"
 
 # PATH: Añadir 'scripts' y todos sus subdirectorios
-export PATH="$PATH:$HOME/bin:$HOME/scripts"
-
+PATH="$PATH:$HOME/bin:$HOME/scripts"
+for d in scripts/*/ ; do
+    PATH="$PATH:$HOME/$d"
+done
+export PATH
