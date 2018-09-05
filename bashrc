@@ -1,7 +1,7 @@
 # Obtener nombre de dispositivo
 if [ -z $ANDROIDHOST ]
 then
-	export ANDROIDHOST=$(getprop net.hostname)
+	export ANDROIDHOST=$(getprop ro.build.bluetooth.name)
 fi
 
 # Aliases
