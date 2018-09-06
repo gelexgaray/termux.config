@@ -13,7 +13,12 @@ alias df="df -h"
 alias x="exit"
 
 # Variables de entorno
-export PS1="[$ANDROIDHOST:\\W \\$] "
+if [ -z $ANDROIDHOST ]
+then
+	export PS1="[\\W \\$] "
+else
+	export PS1="[$ANDROIDHOST:\\W \\$] "
+fi
 export WWW_HOME="http://www.duckduckgo.com"
 
 # PATH: Añadir 'scripts' y todos sus subdirectorios
