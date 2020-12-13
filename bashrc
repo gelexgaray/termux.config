@@ -2,8 +2,6 @@
 
 # Aliases
 alias sudo="echo \"sudo request ignored\" && "
-alias vim="nvim"
-alias vi="nvim"
 alias screen="screen -R"
 alias df="df -h"
 alias x="exit"
