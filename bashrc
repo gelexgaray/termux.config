@@ -8,6 +8,7 @@ alias x="exit"
 alias hexedit="hexedit --color -m "
 alias youtube-dl="$HOME/pipenv/youtube-dl/.venv/bin/youtube-dl"
 alias ipython="$HOME/pipenv/ipython/.venv/bin/ipython"
+alias calc="qalc"
 
 # Variables de entorno
 export WWW_HOME="http://www.duckduckgo.com"
@@ -20,6 +21,8 @@ for d in scripts/*/ ; do
 done
 export PATH
 
+# Starship prompt
+eval "$(starship init bash)"
+
 clear
 echo "Ready!"
-echo
