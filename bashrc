@@ -9,6 +9,8 @@ alias hexedit="hexedit --color -m "
 alias youtube-dl="$HOME/pipenv/youtube-dl/.venv/bin/youtube-dl"
 alias ipython="$HOME/pipenv/ipython/.venv/bin/ipython"
 alias calc="qalc"
+alias firefox="proot-distro login debian-buster -- vncserver -fg"
+alias debian="proot-distro login debian-buster"
 
 # Variables de entorno
 export WWW_HOME="http://www.duckduckgo.com"
