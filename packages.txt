@@ -1,134 +1,79 @@
-Listing...
-apt/stable,now 2.1.14-2 aarch64 [installed]
-aria2/stable,now 1.35.0-2 aarch64 [installed]
-bash/stable,now 5.1.0-3 aarch64 [installed]
-binutils/stable,now 2.35.1-1 aarch64 [installed,automatic]
-bzip2/stable,now 1.0.8-6 aarch64 [installed]
-c-ares/stable,now 1.17.1-1 aarch64 [installed,automatic]
-ca-certificates/stable,now 20201208 all [installed]
-clang/stable,now 11.0.0-1 aarch64 [installed,automatic]
-command-not-found/stable,now 1.60 aarch64 [installed]
-coreutils/stable,now 8.32-7 aarch64 [installed]
-curl/stable,now 7.74.0 aarch64 [installed]
-dash/stable,now 0.5.11.2-5 aarch64 [installed]
-debianutils/stable,now 4.11.2 aarch64 [installed]
-dialog/stable,now 1.3-20200327-0 aarch64 [installed]
-diffutils/stable,now 3.7-3 aarch64 [installed]
-dos2unix/stable,now 7.4.2 aarch64 [installed]
-dpkg/stable,now 1.20.5-5 aarch64 [installed]
-ed/stable,now 1.16-1 aarch64 [installed]
-ffmpeg/stable,now 4.3.1 aarch64 [installed]
-findutils/stable,now 4.7.0-2 aarch64 [installed]
-fontconfig-utils/stable,now 2.13.1-6 aarch64 [installed]
-fontconfig/stable,now 2.13.1-6 aarch64 [installed,automatic]
-freetype/stable,now 2.10.4 aarch64 [installed,automatic]
-fribidi/stable,now 1.0.10 aarch64 [installed,automatic]
-game-repo/stable,now 1.2 all [installed]
-gawk/stable,now 5.1.0-1 aarch64 [installed]
-gdbm/stable,now 1.18.1-3 aarch64 [installed,automatic]
-giflib/stable,now 5.2.1-2 aarch64 [installed,automatic]
-git-lfs/stable,now 2.13.1 aarch64 [installed]
-git/stable,now 2.29.2 aarch64 [installed]
-glib/stable,now 2.66.1 aarch64 [installed,automatic]
-gpgv/stable,now 2.2.25 aarch64 [installed]
-grep/stable,now 3.6 aarch64 [installed]
-gzip/stable,now 1.10-4 aarch64 [installed]
-harfbuzz/stable,now 2.7.4 aarch64 [installed,automatic]
-hexedit/stable,now 1.5 aarch64 [installed]
-htop-legacy/stable,now 1:2.2.0 aarch64 [installed]
-inetutils/stable,now 1.9.4-10 aarch64 [installed]
-krb5/stable,now 1.18.3 aarch64 [installed,automatic]
-ldns/stable,now 1.7.1-3 aarch64 [installed,automatic]
-less/stable,now 563 aarch64 [installed]
-libandroid-glob/stable,now 0.6-2 aarch64 [installed]
-libandroid-support/stable,now 28 aarch64 [installed]
-libass/stable,now 0.15.0 aarch64 [installed,automatic]
-libbz2/stable,now 1.0.8-6 aarch64 [installed]
-libc++/stable,now 21d-1 aarch64 [installed]
-libcrypt/stable,now 0.2-3 aarch64 [installed]
-libcurl/stable,now 7.74.0 aarch64 [installed]
-libdav1d/stable,now 0.4.0-1 aarch64 [installed,automatic]
-libdb/stable,now 18.1.40-2 aarch64 [installed,automatic]
-libedit/stable,now 20191231-3.1-1 aarch64 [installed,automatic]
-libffi/stable,now 3.3-2 aarch64 [installed,automatic]
-libgc/stable,now 8.0.4-2 aarch64 [installed,automatic]
-libgcrypt/stable,now 1.8.7 aarch64 [installed]
-libgmp/stable,now 6.2.1 aarch64 [installed]
-libgnutls/stable,now 3.6.15 aarch64 [installed,automatic]
-libgpg-error/stable,now 1.39 aarch64 [installed]
-libgraphite/stable,now 1.3.14 aarch64 [installed,automatic]
-libiconv/stable,now 1.16-3 aarch64 [installed]
-libidn2/stable,now 2.3.0-2 aarch64 [installed,automatic]
-libjpeg-turbo/stable,now 2.0.6 aarch64 [installed,automatic]
-libllvm/stable,now 11.0.0-1 aarch64 [installed,automatic]
-liblz4/stable,now 1.9.3 aarch64 [installed,automatic]
-liblzma/stable,now 5.2.5-1 aarch64 [installed]
-libmp3lame/stable,now 3.100-3 aarch64 [installed,automatic]
-libmpfr/stable,now 4.1.0 aarch64 [installed]
-libnettle/stable,now 3.6 aarch64 [installed,automatic]
-libnghttp2/stable,now 1.42.0 aarch64 [installed]
-libogg/stable,now 1.3.4-1 aarch64 [installed,automatic]
-libopus/stable,now 1.3.1-4 aarch64 [installed,automatic]
-libpng/stable,now 1.6.37-3 aarch64 [installed,automatic]
-libsoxr/stable,now 0.1.3-2 aarch64 [installed,automatic]
-libsqlite/stable,now 3.34.0 aarch64 [installed,automatic]
-libssh2/stable,now 1.9.0-2 aarch64 [installed]
-libtalloc/stable,now 2.3.1 aarch64 [installed,automatic]
-libtiff/stable,now 4.1.0-3 aarch64 [installed,automatic]
-libtirpc/stable,now 1.3.1 aarch64 [installed]
-libunistring/stable,now 0.9.10-4 aarch64 [installed,automatic]
-libuuid/stable,now 1.0.3-4 aarch64 [installed,automatic]
-libvidstab/stable,now 1.1.0 aarch64 [installed,automatic]
-libvorbis/stable,now 1.3.7 aarch64 [installed,automatic]
-libvpx/stable,now 1.9.0 aarch64 [installed,automatic]
-libwebp/stable,now 1.1.0-1 aarch64 [installed,automatic]
-libx264/stable,now 20190215-1 aarch64 [installed,automatic]
-libx265/stable,now 3.3 aarch64 [installed,automatic]
-libxml2/stable,now 2.9.10-4 aarch64 [installed,automatic]
-lsof/stable,now 4.94.0 aarch64 [installed]
-make/stable,now 4.3-1 aarch64 [installed,automatic]
-man/stable,now 1.14.5-2 aarch64 [installed]
-nano/stable,now 5.4 aarch64 [installed]
-ncdu/stable,now 1.15.1-1 aarch64 [installed]
-ncurses-ui-libs/stable,now 6.2.20200725 aarch64 [installed,automatic]
-ncurses-utils/stable,now 6.2.20200725 aarch64 [installed,automatic]
-ncurses/stable,now 6.2.20200725 aarch64 [installed]
-ndk-sysroot/stable,now 21d aarch64 [installed,automatic]
-net-tools/stable,now 1.60.2017.02.21-3 aarch64 [installed]
-openssh/stable,now 8.4p1-1 aarch64 [installed]
-openssl/stable,now 1.1.1i aarch64 [installed]
-patch/stable,now 2.7.6-3 aarch64 [installed]
-pcre2/stable,now 10.36 aarch64 [installed,automatic]
-pcre/stable,now 8.44-1 aarch64 [installed]
-pkg-config/stable,now 0.29.2 aarch64 [installed,automatic]
-procps/stable,now 3.3.16-2 aarch64 [installed]
-proot-distro/stable,now 1.4.0 all [installed]
-proot/stable,now 5.1.107-35 aarch64 [installed,automatic]
-psmisc/stable,now 23.3-2 aarch64 [installed]
-python/stable,now 3.9.1 aarch64 [installed]
-qalc/stable,now 3.15.0 aarch64 [installed]
-readline/stable,now 8.1.0 aarch64 [installed]
-science-repo/stable,now 1.1 all [installed]
-screen/stable,now 4.8.0 aarch64 [installed]
-sed/stable,now 4.8-1 aarch64 [installed]
-starship/stable,now 0.47.0 aarch64 [installed]
-tar/stable,now 1.32-6 aarch64 [installed]
-termux-am/stable,now 0.4 all [installed]
-termux-api/stable,now 0.54 aarch64 [installed]
-termux-auth/stable,now 1.4 aarch64 [installed,automatic]
-termux-exec/stable,now 1:0.8 aarch64 [installed]
-termux-keyring/stable,now 1.4 all [installed]
-termux-licenses/stable,now 2.0-1 all [installed]
-termux-tools/stable,now 0.101 all [installed]
-tig/stable,now 2.5.1 aarch64 [installed]
-ttf-dejavu/stable,now 2.37-8 all [installed,automatic]
-unzip/stable,now 6.0-7 aarch64 [installed]
-util-linux/stable,now 2.36.1 aarch64 [installed]
-vim-python/stable,now 8.2.2100-2 aarch64 [installed]
-vim-runtime/stable,now 8.2.2100-2 all [installed,automatic]
-w3m/stable,now 0.5.3.20190105-5 aarch64 [installed]
-wget/stable,now 1.20.3-3 aarch64 [installed]
-xvidcore/stable,now 1.3.7 aarch64 [installed,automatic]
-xxhash/stable,now 0.8.0-1 aarch64 [installed,automatic]
-xz-utils/stable,now 5.2.5-1 aarch64 [installed]
-zlib/stable,now 1.2.11-5 aarch64 [installed]
+apt
+aria2
+bash
+bzip2
+ca-certificates
+command-not-found
+coreutils
+curl
+dash
+debianutils
+dialog
+diffutils
+dos2unix
+dpkg
+ed
+ffmpeg
+findutils
+fontconfig-utils
+game-repo
+gawk
+git
+git-lfs
+gpgv
+grep
+gzip
+hexedit
+htop-legacy
+inetutils
+less
+libandroid-glob
+libandroid-support
+libbz2
+libc++
+libcrypt
+libcurl
+libgcrypt
+libgmp
+libgpg-error
+libiconv
+liblzma
+libmpfr
+libnghttp2
+libssh2
+libtirpc
+lsof
+man
+nano
+ncdu
+ncurses
+net-tools
+openssh
+openssl
+patch
+pcre
+procps
+proot-distro
+psmisc
+python
+qalc
+readline
+science-repo
+screen
+sed
+starship
+tar
+termux-am
+termux-api
+termux-exec
+termux-keyring
+termux-licenses
+termux-tools
+tig
+unzip
+util-linux
+vim-python
+w3m
+wget
+xz-utils
+zlib
